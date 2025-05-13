@@ -1,0 +1,31 @@
+Overview
+Overview – Business Context
+Overview – Requirements
+Architecture & Design
+Architecture & Design – High Level Architecture
+Architecture & Design – Components Breakdown
+Technology Stack
+Technology Stack – Core Technologies
+Technology Stack – Supporting Technologies
+API Implementation
+API Implementation – POST /verify
+API Implementation – GET /device-phone-number
+Security
+Security – Authentication & Authorization
+Security – Data Protection
+Security – Threat Mitigation
+Observability & Monitoring
+Observability & Monitoring – Logging Strategy
+Observability & Monitoring – Metrics Collection
+Observability & Monitoring – Alerting & Dashboards
+Testing
+Testing – Testing Strategy
+Testing – Processes
+Testing – Metrics
+Deployment
+Deployment – CI/CD Pipeline
+Deployment – Infrastructure as Code
+Deployment – Scaling & Resilience
+Schedule
+Schedule – Timeline
+Q&A
